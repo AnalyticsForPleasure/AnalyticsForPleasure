@@ -19,6 +19,31 @@ I am intrested in:
 
 
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+
+
+
+<center>
+  
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| Courses:|  ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)| $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+  
+</center>
+
+
+
+
+
+
+
 **Courses:**
 
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
