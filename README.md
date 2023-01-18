@@ -12,8 +12,9 @@ I am intrested in:
 
 
 📫 **How to reach me:**
+
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) shaycohen2003@gmail.com
-- 
+
 **AnalyticsForPleasure/AnalyticsForPleasure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
