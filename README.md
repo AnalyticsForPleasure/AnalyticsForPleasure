@@ -11,9 +11,7 @@ I am intrested in:
 - Analyse data from Kaggle datasets.
 
 
-📫 **How to reach me:**
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) shaycohen2003@gmail.com
 
 **AnalyticsForPleasure/AnalyticsForPleasure**
 
@@ -31,5 +29,7 @@ I am intrested in:
 
 
 
+📫 **How to reach me:**
 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) shaycohen2003@gmail.com
 
