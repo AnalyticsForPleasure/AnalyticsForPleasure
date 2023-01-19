@@ -19,15 +19,6 @@ I am intrested in:
 
 
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-
-
-
 <center>
   
 | Languages   |      Courses      |  Packages | Spending my time on this websites: |
