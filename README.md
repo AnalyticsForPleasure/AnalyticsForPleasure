@@ -1,13 +1,15 @@
 ### Hi there 👋
 
 Hi my name is shay and I am a Data Analyst.
+I tend to break down complex problems into smaller parts for revealing the patterns in the data.
+
 I am intrested in:
-- Data visualization
-- Buillding dashboards
 - Delving into new datasets 
-- Creating animated graphics
 - Analyse trends in finance
 - Analyse trends in Central Bureau of Statistics.
+- Data visualization
+- Buillding dashboards
+- Creating animated graphics
 - Analyse data from Kaggle datasets ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 - Exploring 
 
