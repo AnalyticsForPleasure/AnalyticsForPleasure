@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Hi my name is shay and I am a Data Analyst.
+
 I tend to break down complex problems into smaller parts for revealing the patterns in the data.
 
 I am intrested in:
