@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/28948369/228192778-724efb35-17e7-402d-b509-2c668a9e065c.png)
+![read_me_file](https://user-images.githubusercontent.com/28948369/228199970-0cc3b78b-77a9-40c5-a50b-ac2474e6b72f.png)
+
 
 
 Hi my name is shay and I am a Data Analyst.
