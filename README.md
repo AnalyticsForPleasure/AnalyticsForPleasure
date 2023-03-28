@@ -1,4 +1,4 @@
-![read_me_file](https://github.com/AnalyticsForPleasure/AnalyticsForPleasure/blob/main/github.jpg)
+![read_me_file](https://github.com/AnalyticsForPleasure/AnalyticsForPleasure/blob/main/b.jpg)
 
 
 
