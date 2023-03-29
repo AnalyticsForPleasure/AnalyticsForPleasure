@@ -1,4 +1,4 @@
-![read_me_file](https://github.com/AnalyticsForPleasure/AnalyticsForPleasure/blob/main/b3_larger.jpg)
+
 
 ![read_me](https://user-images.githubusercontent.com/28948369/228436197-8e7a7624-42b7-48a4-9b97-9958041bf9c8.png)
 
